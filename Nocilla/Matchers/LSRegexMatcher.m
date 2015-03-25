@@ -18,4 +18,7 @@
     return [self.regex numberOfMatchesInString:string options:0 range:NSMakeRange(0, string.length)] > 0;
 }
 
+- (NSString *)description {
+    return [NSString stringWithFormat:@"Regex: \"%@\"", self.regex.description];
+}
 @end

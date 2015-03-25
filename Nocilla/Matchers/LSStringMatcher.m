@@ -20,4 +20,7 @@
     return [self.string isEqualToString:string];
 }
 
+- (NSString *)description {
+    return [NSString stringWithFormat:@"String: \"%@\"", self.string];
+}
 @end
