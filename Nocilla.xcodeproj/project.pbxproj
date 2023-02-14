@@ -889,7 +889,7 @@
 			};
 			name = NoFB;
 		};
-		5E9225301E592D9A00EEC4C9 /* NoG+ */ = {
+		5E9225301E592D9A00EEC4C9 /* NoGoogle */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -927,9 +927,9 @@
 				ONLY_ACTIVE_ARCH = YES;
 				SDKROOT = iphoneos;
 			};
-			name = "NoG+";
+			name = "NoGoogle";
 		};
-		5E9225311E592D9A00EEC4C9 /* NoG+ */ = {
+		5E9225311E592D9A00EEC4C9 /* NoGoogle */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				DSTROOT = /tmp/Nocilla.dst;
@@ -943,9 +943,9 @@
 				SKIP_INSTALL = YES;
 				VALID_ARCHS = "arm64 armv7 armv7s i386 x86_64";
 			};
-			name = "NoG+";
+			name = "NoGoogle";
 		};
-		5E9225321E592D9A00EEC4C9 /* NoG+ */ = {
+		5E9225321E592D9A00EEC4C9 /* NoGoogle */ = {
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 414F89A81D6BD988C531EE91 /* Pods-NocillaTests.debug.xcconfig */;
 			buildSettings = {
@@ -955,7 +955,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = "com.luissolano.${PRODUCT_NAME:rfc1034identifier}";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
-			name = "NoG+";
+			name = "NoGoogle";
 		};
 		A085B85B15E30749007D33C1 /* Debug */ = {
 			isa = XCBuildConfiguration;
@@ -1092,7 +1092,7 @@
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				A085B85B15E30749007D33C1 /* Debug */,
-				5E9225301E592D9A00EEC4C9 /* NoG+ */,
+				5E9225301E592D9A00EEC4C9 /* NoGoogle */,
 				5E92252D1E592D9100EEC4C9 /* NoFB */,
 				5E92252A1E592CE200EEC4C9 /* NoSocial */,
 				A085B85C15E30749007D33C1 /* Release */,
@@ -1104,7 +1104,7 @@
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				A085B85E15E30749007D33C1 /* Debug */,
-				5E9225311E592D9A00EEC4C9 /* NoG+ */,
+				5E9225311E592D9A00EEC4C9 /* NoGoogle */,
 				5E92252E1E592D9100EEC4C9 /* NoFB */,
 				5E92252B1E592CE200EEC4C9 /* NoSocial */,
 				A085B85F15E30749007D33C1 /* Release */,
@@ -1116,7 +1116,7 @@
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				A085B86115E30749007D33C1 /* Debug */,
-				5E9225321E592D9A00EEC4C9 /* NoG+ */,
+				5E9225321E592D9A00EEC4C9 /* NoGoogle */,
 				5E92252F1E592D9100EEC4C9 /* NoFB */,
 				5E92252C1E592CE200EEC4C9 /* NoSocial */,
 				A085B86215E30749007D33C1 /* Release */,
